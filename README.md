@@ -5,6 +5,10 @@
 - Historia de Python y su importancia.
 - Configuración del entorno de desarrollo (instalación de Python, Visual Studio Code, Extensiones).
 - Ejecución de las primeras líneas de código.
+# Ayudas 
+- https://youtu.be/otFIXZEiE3s
+- https://chat.openai.com/
+- https://colab.research.google.com/
 
 ## Clase 2: Variables y Tipos de Datos
 - Variables y asignación de valores.
