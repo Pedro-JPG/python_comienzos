@@ -14,6 +14,9 @@
 - Variables y asignación de valores.
 - Tipos de datos básicos: enteros, flotantes, cadenas, booleanos.
 - Uso de comentarios.
+# Ayudas
+- https://youtu.be/N4RWZz-x9lQ
+- https://youtu.be/xIMhK5KdpH4
 
 ## Clase 3: Operadores y Expresiones
 - Operadores aritméticos.
