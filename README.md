@@ -6,7 +6,7 @@
 - Configuración del entorno de desarrollo (instalación de Python, Visual Studio Code, Extensiones).
 - Ejecución de las primeras líneas de código.
 # Ayudas 
-- https://youtu.be/otFIXZEiE3s
+- Video 1 - https://youtu.be/otFIXZEiE3s
 - https://chat.openai.com/
 - https://colab.research.google.com/
 
@@ -15,8 +15,8 @@
 - Tipos de datos básicos: enteros, flotantes, cadenas, booleanos.
 - Uso de comentarios.
 # Ayudas
-- https://youtu.be/N4RWZz-x9lQ
-- https://youtu.be/xIMhK5KdpH4
+- Video 2 - https://youtu.be/N4RWZz-x9lQ
+- Video 3 - https://youtu.be/xIMhK5KdpH4
 
 ## Clase 3: Operadores y Expresiones
 - Operadores aritméticos.
