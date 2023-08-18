@@ -17,12 +17,14 @@
 # Ayudas
 - Video 2 - https://youtu.be/N4RWZz-x9lQ
 - Video 3 - https://youtu.be/xIMhK5KdpH4
+- Video 4 - https://youtu.be/nBqEW_Vy0O4
 
 ## Clase 3: Operadores y Expresiones
 - Operadores aritméticos.
 - Operadores de comparación.
 - Operadores lógicos.
 - Ejercicios prácticos.
+
 
 ## Clase 4: Estructuras de Control - Parte 1
 - Uso de condicionales if, elif, else.
