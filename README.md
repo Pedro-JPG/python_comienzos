@@ -26,12 +26,11 @@
 - Ejercicios prácticos.
 # Ayudas
 - Videos 5 - https://youtu.be/yhczUe56YpM
-
   
 ## Clase 4: Estructuras de Control - Parte 1
 - Uso de condicionales if, elif, else.
 - Ejercicios prácticos.
-#Ayudas
+# Ayudas
 - Video 6 - https://youtu.be/T75T1MZMPBE
 
 ## Clase 5: Estructuras de Control - Parte 2
