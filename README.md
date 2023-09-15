@@ -37,6 +37,9 @@
 - Bucles while y for.
 - Uso de break y continue.
 - Ejercicios prácticos.
+- # Ayudas
+- Video 7 - https://youtu.be/w_uwDAoqVlM
+- Video 8 - https://youtu.be/P6yYlfsZCaQ
 
 ## Clase 6: Colecciones de Datos - Listas y Tuplas
 - Uso de listas y sus métodos.
