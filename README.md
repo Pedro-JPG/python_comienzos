@@ -45,6 +45,8 @@
 - Uso de listas y sus métodos.
 - Uso de tuplas.
 - Ejercicios prácticos.
+- # Ayudas
+- https://youtu.be/zbztVpFNE_c
 
 ## Clase 7: Colecciones de Datos - Diccionarios y Conjuntos
 - Uso de diccionarios y sus métodos.
