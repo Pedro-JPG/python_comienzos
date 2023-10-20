@@ -58,6 +58,9 @@
 - Parámetros y argumentos.
 - Retorno de valores.
 - Ejercicios prácticos.
+- # Ayudas
+- Video 10 https://youtu.be/O5iPmG-_YHY
+- Video 11 https://youtu.be/hyELIFdJSaY
 
 ## Clase 9: Programación Orientada a Objetos (POO) - Parte 1
 - Repaso breve de Programación Orientada a Objetos (POO).
